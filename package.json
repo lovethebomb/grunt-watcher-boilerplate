@@ -1,0 +1,28 @@
+{
+  "name": "grunt-watcher-boilerplate",
+  "version": "0.0.1",
+  "description": "Provide simple watch/uglify for python-like project architecture",
+  "author": "lucas@lovethebomb.eu",
+  "license": "NA",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "0.4.4",
+    "require-grunt-configs": "0.5.0",
+    "load-grunt-tasks": "0.4.0",
+    "grunt-contrib-watch": "0.6.1",
+    "grunt-contrib-compass": "0.7.2",
+    "grunt-contrib-uglify": "0.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lovethebomb/grunt-watcher-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lovethebomb/grunt-watcher-boilerplate/issues"
+  },
+  "homepage": "https://github.com/lovethebomb/grunt-watcher-boilerplate",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
