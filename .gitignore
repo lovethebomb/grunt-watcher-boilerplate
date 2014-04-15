@@ -1,0 +1,26 @@
+# logs
+*.log
+logs/
+
+# OS generated files
+*.swp
+*.pyc
+__pycache__/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*/*/.DS_Store
+*/.DS_Store
+
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Grunt and Node modules
+node_modules
+*/node_modules
+
+# Compass cache
+.sass-cache/
